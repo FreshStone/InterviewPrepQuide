@@ -1,2 +1,3 @@
 leetcode/2272
-gfg/sumOfbeauty  "youtube/geeksforgeeks/Job-A-Thon 13 Contest Analysis/(27:00 time)"
+gfg/sumUpTheBeauty  "youtube/geeksforgeeks/Job-A-Thon 13 Contest Analysis/(27:00 time)"
+leetcode/1696
