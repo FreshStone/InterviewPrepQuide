@@ -1,22 +1,66 @@
-1. leetcode/Word Break
-2. leetcode/Wiggle Subsequence
-3. leetcode/Queue Reconstruction by Height
-4. leetcode/Course Schedule III
-5. leetcode/Split Array into Consecutive Subsequences
-6. leetcode/Valid Palindrome II
-7. leetcode/Largest Sum of Averages
-8. leetcode/K-Similar Strings
-9. leetcode/Cat and Mouse
-10. leetcode/Flip Binary Tree To Match Preorder Traversal
-11. leetcode/Last Stone Weight II
-12. leetcode/Search Suggestions System
-13. leetcode/Find the Smallest Divisor Given a Threshold
-14. leetcode/Shortest Path in a Grid with Obstacles Elimination
-15. leetcode/Construct Target Array With Multiple Sums
-16. leetcode/Furthest Building You Can Reach
-17. leetcode/Minimum Deletions to Make Character Frequencies Unique
-18. leetcode/Minimum Operations to Reduce X to Zero
-19. gfg/K-periodic circular string
-20. gfg/Kill Captain America
-21. graph-coloring //"no two nodes share same color"
-22. leetcode/2421
+1. Substring with Concatenation of All Words
+2. Reverse Linked List II
+3. Interleaving String
+4. Symmetric Tree
+5. Construct Binary Tree from Preorder and Inorder Traversal
+6. Word Ladder II
+7. Word Break II
+8. The Skyline Problem
+9. Wiggle Subsequence
+10. Kth Smallest Element in a Sorted Matrix
+11. Queue Reconstruction by Height
+12. Pacific Atlantic Water Flow
+13. Arithmetic Slices II - Subsequence
+14. Matchsticks to Square
+15. Continuous Subarray Sum
+16. Erect the Fence
+17. K Inverse Pairs Array
+18. Course Schedule III
+19. Split Array into Consecutive Subsequences
+20. Valid Palindrome II
+21. Largest Sum of Averages
+22. Binary Trees With Factors
+23. Sum of Distances in Tree
+24. K-Similar Strings
+25. Mirror Reflection
+26. Minimum Number of Refueling Stops
+27. Orderly Queue
+28. Cat and Mouse
+29. Stamping The Sequence
+30. Most Stones Removed with Same Row or Column
+31. Flip Binary Tree To Match Preorder Traversal
+32. Last Stone Weight II
+33. Number of Submatrices That Sum to Target
+34. Search Suggestions System
+35. Find the Smallest Divisor Given a Threshold
+36. Shortest Path in a Grid with Obstacles Elimination
+37. Maximum Number of Events That Can Be Attended
+38. Construct Target Array With Multiple Sums
+39. Linked List in Binary Tree
+40. Paint House III
+41. String Compression II
+42. Furthest Building You Can Reach
+43. Minimum Deletions to Make Character Frequencies Unique
+44. Minimum Operations to Reduce X to Zero
+45. Jump Game VI
+46. Minimum Interval to Include Each Query
+47. Number of Good Paths
+48. Divide Nodes Into the Maximum Number of Groups
+49. Maximum Number of Points From Grid Queries
+50. Smallest Value After Replacing With Sum of Prime Factors
+51. Number of Great Partitions
+52. Closest Prime Numbers in Range
+53. Maximize the Minimum Powered City
+54. Difference Between Maximum and Minimum Price Sum
+55. Minimize the Maximum of Two Arrays
+56. Check if Point Is Reachable
+57. Time to Cross a Bridge
+58. Put Marbles in Bags
+59. Rearranging Fruits
+60. Subsequence With the Minimum Score
+61. Handling Sum Queries After Update
+62. Find the String with LCP
+63. Count the Number of Square-Free Subsets
+64. gfg/K-periodic circular string
+65. gfg/Kill Captain America
+66. graph-coloring //"no two nodes share same color"
